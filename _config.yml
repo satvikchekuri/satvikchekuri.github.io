@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Satvik Chekuri"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Satvik Chekuri"
 description              : &description "PhD Candidate"
 url                      : https://satvikchekuri.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,13 +23,13 @@ repository               : "satvikchekuri/satvikchekuri.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Satvik Chekuri"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Candidate in CS @ Virginia Tech"
+  location         : "Blacksburg, VA"
+  employer         : "Virginia Tech"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "satvikchekuri@vt.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "satvikchekuri"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
